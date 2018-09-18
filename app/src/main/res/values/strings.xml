@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mision2</string>
+    <string name="labelEditUser">Escribe tu nombre de usuario</string>
+    <string name="labelEditPassword">Escribe tu contraseña</string>
+    <string name="labelButtonLogIn">INICIAR SESIÓN</string>
+    <string name="labelButtonForgotPassword">OLVIDÉ MIS DATOS</string>
+    <string name="snackMustRecoverData">Debes recuperar tu cuenta</string>
+    <string name="snackButtonRecoverData">Recuperar</string>
+    <string name="toastRecoveryDataSent">Las instrucciones de recuperación se han enciado a tu correo electrónico</string>
+    <string name="logOnPause">onPause</string>
+    <string name="logOnStart">onStart</string>
+    <string name="logOnStop">onStop</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widgetUserName">Bernardo Fuentes</string>
+    <string name="widgetApllicationName">Gestor de diseños</string>
+</resources>
